@@ -17,7 +17,7 @@ This quiz captures your ability to read and understand code including use of `me
 
 ## Table of contents
 
-* [G. Wiz Practices Potions](#g-wiz-practices potions)
+* [G. Wiz Practices Potions](#g-wiz-practices-potions)
 * [GatorGrader](#gatorgrader)
 
 ## "Cloning" a repository
