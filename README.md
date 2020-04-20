@@ -1,7 +1,7 @@
 # CMPSC 100-02 Quiz 2
 
-* Assigned: 13 April 2020
-* Due: 20 April 2020
+* Assigned: 20 April 2020
+* Due: 27 April 2020
 * Point value: 50
 
 This quiz captures your ability to read and understand code including use of `methods`, `classes`, and the `ArrayList` data structure.
